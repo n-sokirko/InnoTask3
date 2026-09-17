@@ -1,0 +1,11 @@
+# port berthCount warehouseCapacity containersInWarehouse
+port 3 100 40
+# ship name capacity containersOnBoard containersToUnload containersToLoad
+ship Aurora 60 50 50 20
+ship Baltica 40 0 0 35
+ship Neman 80 70 60 10
+ship Viking 30 25 25 30
+ship Polesie 50 10 5 40
+ship Sozh 70 65 65 0
+ship Berezina 45 20 20 45
+ship Svisloch 55 40 30 25
